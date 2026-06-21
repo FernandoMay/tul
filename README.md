@@ -2,10 +2,23 @@
 
 Tul
 
-## Compra en línea para tu negocio
+## Overview
 
-Rentabilidad, conveniencia y servicio a la medida para tu ferretería, obra o deposito. 🤩
+| Attribute | Details |
+|-----------|---------|
+| **Language** | Dart |
+| **Size** | ~0.1 MB |
+| **Last Updated** | 2021-02-17T06:00:25Z |
 
-- [Tul Colombia](https://tul.com.co/)
-- [Tul México](https://tul.mx/)
-- [Tul Ecuador](https://tul.com.ec/)
+## Getting Started
+
+```bash
+git clone https://github.com/FernandoMay/tul.git
+cd tul
+flutter pub get
+flutter run
+```
+
+## License
+
+MIT
